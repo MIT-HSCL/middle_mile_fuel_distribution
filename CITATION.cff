@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: middle-mile fuel distribution simulation tool
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Benjamin
+    family-names: Cutler
+  - given-names: Maximiliano
+    family-names: Subercaseaux
+repository-code: 'https://github.com/MIT-HSCL/middle_mile_fuel_distribution'
+date-released: '2026-04-05'
